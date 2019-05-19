@@ -1,7 +1,7 @@
 {
   "name": "gitfolio",
   "version": "0.1.1",
-  "homepage": "syeedhasan.github.io",
+  "homepage": "syeedhasan.github.io/portfolio-web/",
   "description": "portfolio website for showcasing your work",
   "main": "build.js",
   "scripts": {
